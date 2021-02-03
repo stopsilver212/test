@@ -5,7 +5,11 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Git!");
+<<<<<<< HEAD
 		System.out.println("Hello HTML!");
+=======
+		System.out.println("Hello Spring!");
+>>>>>>> refs/heads/master
 	}
 
 }
